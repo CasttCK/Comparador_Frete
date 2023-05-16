@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HTutTQySK+jA6R+eIw3qB44O8xp49tDESk1h+JTdh/g=",
+  "Hash": "UiwPYTb3Y+XteTrrPYIq4c5GdKogc0TydGcJu6ifm4k=",
   "Source": "FreteFinder",
   "BasePath": "_content/FreteFinder",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\img1.jpg"
+    },
+    {
+      "Identity": "D:\\Projetos Pessoais\\Comparador_Frete\\wwwroot\\assets\\img\\img2.jpg",
+      "SourceId": "FreteFinder",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos Pessoais\\Comparador_Frete\\wwwroot\\",
+      "BasePath": "_content/FreteFinder",
+      "RelativePath": "assets/img/img2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\img2.jpg"
     },
     {
       "Identity": "D:\\Projetos Pessoais\\Comparador_Frete\\wwwroot\\css\\site.css",

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\img1.jpg"
     },
     {
+      "Id": "D:\\Projetos Pessoais\\Comparador_Frete\\wwwroot\\assets\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\img2.jpg"
+    },
+    {
       "Id": "D:\\Projetos Pessoais\\Comparador_Frete\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
