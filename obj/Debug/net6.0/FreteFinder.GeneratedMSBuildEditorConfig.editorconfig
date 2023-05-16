@@ -7,8 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Comparador_Frete
-build_property.RootNamespace = Comparador_Frete
+build_property.RootNamespace = FreteFinder
+build_property.RootNamespace = FreteFinder
 build_property.ProjectDir = D:\Projetos Pessoais\Comparador_Frete\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
@@ -42,4 +42,4 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Projetos Pessoais/Comparador_Frete/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-xy3k3higml
+build_metadata.AdditionalFiles.CssScope = b-f0sut5cd9m

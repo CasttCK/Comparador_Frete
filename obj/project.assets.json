@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos Pessoais\\Comparador_Frete\\Comparador_Frete\\Comparador_Frete.csproj",
-      "projectName": "Comparador_Frete",
-      "projectPath": "D:\\Projetos Pessoais\\Comparador_Frete\\Comparador_Frete\\Comparador_Frete.csproj",
+      "projectUniqueName": "D:\\Projetos Pessoais\\Comparador_Frete\\FreteFinder.csproj",
+      "projectName": "FreteFinder",
+      "projectPath": "D:\\Projetos Pessoais\\Comparador_Frete\\FreteFinder.csproj",
       "packagesPath": "C:\\Users\\vini_\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos Pessoais\\Comparador_Frete\\Comparador_Frete\\obj\\",
+      "outputPath": "D:\\Projetos Pessoais\\Comparador_Frete\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vini_\\AppData\\Roaming\\NuGet\\NuGet.Config",
