@@ -1,7 +1,6 @@
 # Ignorar todos os arquivos e pastas, exceto o código-fonte
 *
 !.gitignore
-!**/*.vs
 !**/*.cs
 !**/*.csproj
 !**/*.sln
@@ -35,3 +34,6 @@
 !**/*.bmp
 !**/*.ico
 !**/*.svg
+
+# Ignorar diretório .vs
+.vs/
